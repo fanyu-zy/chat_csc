@@ -1,0 +1,4 @@
+F:/forgit/gitrep/chat_socket/chat_csc/out/build/x64-Debug/CMakeFiles/chatClient.dir
+F:/forgit/gitrep/chat_socket/chat_csc/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/forgit/gitrep/chat_socket/chat_csc/out/build/x64-Debug/CMakeFiles/chatServer.dir
+F:/forgit/gitrep/chat_socket/chat_csc/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
